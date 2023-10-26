@@ -1,5 +1,3 @@
 @DanielFrulane
 
-Python, C, Arduino, Java
-
-Ecocar UNICAMP
+Python, C, C++, Arduino, Java
