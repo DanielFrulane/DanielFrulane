@@ -1,3 +1,5 @@
-@DanielFrulane
+My name is Daniel and this is my GitHub profile!
 
-Python, C, C++, Arduino, Java
+Coding skills mainly concern Python, C, C++, Arduino and Java.
+
+Follow me on LinkedIn: linkedin.com/in/danielcfsouza/
